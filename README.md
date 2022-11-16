@@ -3,7 +3,7 @@ A simple video streaming clone of youtube built with react using Youtube-v3 API.
 
 The app's Interface has been made with the help of Material UI (version 5). Data used in here has been obtained from Rapid API.
 
-[Click here!](https://fazevennom-youtubeclone.netlify.app/) for the Hostlink
+Click [here](https://fazevennom-youtubeclone.netlify.app/) for the Hostlink and experience the web-app.
 
 # Glimpse
 ![Screenshot from 2022-10-09 17-39-20](https://user-images.githubusercontent.com/79959361/194756175-306d72fe-7df2-4dde-a693-cc4c07973783.png)
