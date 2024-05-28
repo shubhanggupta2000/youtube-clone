@@ -35,7 +35,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          Copyright © 2022 Fazevennom_Media
+          © 2024 Fazevennom Media
         </Typography>
       </Box>
 
